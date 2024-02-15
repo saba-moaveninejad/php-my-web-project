@@ -15,7 +15,7 @@ $categories = $db-> query($query);
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>php tutorial || blog project || websaba.io</title>
+        <title> blog project || websaba.io</title>
 
         <link
             rel="stylesheet"
